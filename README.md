@@ -21,7 +21,7 @@ A stunning, cinematic, and production-ready movie and TV show discovery applicat
 
 <p align="center">
   <img src="movie_verse_screenshot/home_screen.png" width="220"/>
-  <img src="movie_verse_screenshot/movie_screen" width="220"/>
+  <img src="movie_verse_screenshot/movie_screen.png" width="220"/>
   <img src="movie_verse_screenshot/mylist_screen.png" width="220"/>
   <img src="movie_verse_screenshot/share_screen.png" width="220"/>
 </p>
