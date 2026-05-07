@@ -1,10 +1,10 @@
 # Smollan Movie Verse 🎬
 
-A stunning, cinematic, and production-ready movie and TV show discovery application built with **Flutter**. Inspired by the premium UI/UX of Apple TV+, Netflix, and Disney+, this app provides a seamless and immersive experience for tracking your favorite shows, discovering what's trending, and managing your upcoming watch schedule.
+A stunning, cinematic, and production-ready movie and TV show discovery application built with Flutter. This app provides a seamless and immersive experience for tracking your favorite shows, discovering what's trending, and managing your upcoming watch schedule.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 *   **Cinematic UI/UX:** A highly polished, dark-themed Apple TV+ inspired design with frosted glass effects, subtle drop shadows, and parallax scrolling.
 *   **Hero Animations:** Buttery-smooth transitions from the Home Screen to the Details Screen.
@@ -18,7 +18,7 @@ A stunning, cinematic, and production-ready movie and TV show discovery applicat
 
 ---
 
-## 🏗 Architecture & Tech Stack
+## Architecture & Tech Stack
 
 This project strictly adheres to **Clean Architecture** principles, decoupling UI, Business Logic, and Data layers for maximum scalability and testability.
 
@@ -51,7 +51,7 @@ lib/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 *   Flutter SDK (v3.19.0 or higher recommended)
@@ -78,7 +78,7 @@ lib/
 
 ---
 
-## 📱 Screenshots & UI Highlights
+## Screenshots & UI Highlights
 
 *   **Home Screen:** Features a massive top `CinematicBanner` that parallax scrolls behind a frosted-glass `SliverAppBar`. Show cards perfectly maintain a premium `2:3` aspect ratio with ambient shadows.
 *   **Details Screen:** Features a massive hero poster that gracefully collapses, expanding metadata, genres, and cast details.
@@ -86,7 +86,7 @@ lib/
 
 ---
 
-## 🛠 Future Enhancements
+## Future Enhancements
 
 *   **Authentication:** Firebase integration for cross-device syncing of the "My List".
 *   **Pagination:** Advanced infinite scrolling for the search page.
@@ -94,11 +94,10 @@ lib/
 *   **Trailer Support:** Embedded YouTube player for TV show trailers.
 
 ---
-
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
